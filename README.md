@@ -1,24 +1,9 @@
 ## Olá! seja bem-vindo(a) ao meu perfil! 🖐️
 
- Meu nome é Cassiano Laudemiro Expedito, sou Desenvolvedor em transição de carreira, com 29 anos, e uma paixão crescente por tecnologia. Minha trajetória profissional anterior como Controlador de Acesso permitiu que eu desenvolvesse habilidades essenciais, como comunicação eficaz, gestão de tempo, resolução de problemas e trabalho em equipe. Além disso, exerci funções de liderança e orientação, consolidando minha capacidade de colaborar e entregar resultados.
-Atualmente, estou focado no desenvolvimento Full Stack e aprimorando minhas competências técnicas. Tenho experiência com:
-
-Front-End: HTML, CSS, JavaScript.
-
-Back-End: Node.js (em aprendizado).
-
-Banco de Dados: SQL e MongoDB.
-
-Ferramentas de Desenvolvimento: Git/GitHub e metodologias ágeis.
+Meu nome é Cassiano Laudemiro Expedito, sou Desenvolvedor em transição de carreira, com 29 anos, e uma paixão crescente por tecnologia. Minha trajetória profissional anterior como Controlador de Acesso permitiu que eu desenvolvesse habilidades essenciais, como comunicação eficaz, gestão de tempo, resolução de problemas e trabalho em equipe. Além disso, exerci funções de liderança e orientação, consolidando minha capacidade de colaborar e entregar resultados, atualmente, estou focado no desenvolvimento Full Stack e aprimorando minhas competências técnicas. Tenho experiência com: Front-End: HTML, CSS, JavaScript, Back-End: Node.js, React, Banco de Dados: SQL e MongoDB, Ferramentas de Desenvolvimento: Git/GitHub e metodologias ágeis.
 
 Além disso, explorei a área de análise de dados com Power BI, onde desenvolvi dashboards interativos e automatizei relatórios a partir de planilhas do Excel. Esses projetos me deram uma visão ampla sobre a importância de dados no processo de tomada de decisões.
-Entre os meus projetos, destaco:
-
-The Coffee Nook: Desenvolvimento de um site para uma cafeteria fictícia com foco em design responsivo, páginas dinâmicas e experiência do usuário.
-
-Jogo Jokenpô Interativo: Interface dinâmica e placar automático.
-
-Dashboard em Power BI: Integração e análise de dados comerciais.
+Entre os meus projetos, destaco: ( The Coffee Nook, Clone do site WebMotor, Dashboard em Power BI).
 
 Sou uma pessoa curiosa, apaixonada por aprendizado contínuo e sempre aberta a novos desafios. Quero aplicar minhas habilidades técnicas e interpessoais em projetos inovadores que contribuam para o crescimento de equipes e organizações.
 Vamos conversar sobre como posso agregar valor ao seu time ou projeto 😊
@@ -26,7 +11,6 @@ Vamos conversar sobre como posso agregar valor ao seu time ou projeto 😊
 📩 Email: cassianolaudemiro1@gmail.com
 
 📱 WhatsApp: (11) 93070-2976
-
 
 ## Minhas Habilidades
 
