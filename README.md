@@ -1,12 +1,26 @@
 ## Olá! seja bem-vindo(a) ao meu perfil! 🖐️
 
-Meu nome é Cassiano Laudemiro Expedito, sou Desenvolvedor em transição de carreira, com 29 anos, e uma paixão crescente por tecnologia. Minha trajetória profissional anterior como Controlador de Acesso permitiu que eu desenvolvesse habilidades essenciais, como comunicação eficaz, gestão de tempo, resolução de problemas e trabalho em equipe. Além disso, exerci funções de liderança e orientação, consolidando minha capacidade de colaborar e entregar resultados, atualmente, estou focado no desenvolvimento Full Stack e aprimorando minhas competências técnicas. Tenho experiência com: Front-End: HTML, CSS, JavaScript, Back-End: Node.js, React, Banco de Dados: SQL e MongoDB, Ferramentas de Desenvolvimento: Git/GitHub e metodologias ágeis.
+Sou Cassiano Laudemiro Expedito, Busco integrar uma equipe inovadora para atuar no Desenvolvimento de sistema Web e criação de interfaces robustas, ênfase e conhecimento em IA e simulação digital, Possuo certificação Full Stack (140h) e com 1 ano de experiência prática em projetos bem robustos e pessoais que eu criei. Minha missão é entregar soluções escaláveis e de alta qualidade, aonde a minha versatilidade em aprender, comunicar e auxiliar me destacam.
 
-Além disso, explorei a área de análise de dados com Power BI, onde desenvolvi dashboards interativos e automatizei relatórios a partir de planilhas do Excel. Esses projetos me deram uma visão ampla sobre a importância de dados no processo de tomada de decisões.
-Entre os meus projetos, destaco: ( The Coffee Nook, Clone do site WebMotor, Dashboard em Power BI).
+Habilidades Técnicas e Proficiência: em JavaScript, React (com Redux), e Node.js.Back-end &amp; Linguagens: conhecimento em Python, essencial para projetos de IA e Web e TypeScript.
 
-Sou uma pessoa curiosa, apaixonada por aprendizado contínuo e sempre aberta a novos desafios. Quero aplicar minhas habilidades técnicas e interpessoais em projetos inovadores que contribuam para o crescimento de equipes e organizações.
-Vamos conversar sobre como posso agregar valor ao seu time ou projeto 😊
+Bancos de Dados: Experiência com SQL e NoSQL (MongoDB) para a evolução de soluções digitais.
+
+Infraestrutura: Familiaridade com Docker para conteinerização de aplicações.Testes: Conhecimento em desenvolvimento e execução de testes unitários/automatizados e uso de ferramentas como REST Client e Axios para testes de APIs Além de HTTP e Beekeeper Studio.
+
+DevOps/Agile: Uso fluente de Git/GitHub para controle de versão e preparado para atuar com métodos ágeis (Scrum/Kanban) e práticas de CI/CD.
+
+Foco em IA e Inovação Concluí o bootcamp Universia - Fundamentos de IA Generativa (24h) , o que me capacita a contribuir diretamente com o desenvolvimento de funcionalidades que envolvam IA, LLMs e RAG. Minha expertise inclui Engenharia de Prompt e a aplicação de LLMs em projetos.
+
+Formações:
+Programador Full Stack (Dev Club, 2025) Completo.
+Bootcamp Fundamentos de IA Generativas ( DIO e Universia, 2025 ).
+E iniciarei a minha faculdade de Graduação em Análise e Desenvolvimento de Sistemas pela instituição (FIAP) em Fev/2026 e com termino em Dez de 2027 sendo o total de 2 anos.
+
+Minhas experiências anteriores (Controlador de Acesso/Recepcionista) aprimoraram minha visão analítica , gestão de tempo e capacidade de resolução de problemas organização e trabalho em equipe.Meu objetivo é aplicar minha base Full Stack e meu conhecimento em IA Generativa e Python para construir e evoluir sistemas digitais, garantindo a qualidade do código com testes automatizados e contribuindo ativamente para a inovação da empresa e equipe.
+
+Meu Contatos para podermos bater um papo sobre como eu poderei agregar na sua empresa :
+ 😊
 
 📩 Email: cassianolaudemiro1@gmail.com
 
