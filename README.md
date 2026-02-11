@@ -20,7 +20,6 @@ Bootcamp Fundamentos de IA Generativas ( DIO e Universia, 2025 ).
 BootCamp sobre os Fundamentos de IA Generativas com Bedrock e AWS ( DIO e Nexa, 2025 ).
 Bootcamp Santander 2025 focado em Automação com n8n ( DIO e Santander, 2026 ).
 
-Minhas experiências anteriores (Controlador de Acesso/Recepcionista) aprimoraram minha visão analítica , gestão de tempo e capacidade de resolução de problemas organização e trabalho em equipe.Meu objetivo é aplicar minha base Full Stack e meu conhecimento em IA Generativa e Python para construir e evoluir sistemas digitais, garantindo a qualidade do código com testes automatizados e contribuindo ativamente para a inovação da empresa e equipe.
 
 Meu Contatos para podermos bater um papo sobre como eu poderei agregar na sua empresa :
  😊
