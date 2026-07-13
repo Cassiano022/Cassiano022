@@ -2,17 +2,29 @@
 
 Olá, seja bem-vindo(a)!
 
-Sou Cassiano, estudante de Análise e Desenvolvimento de Sistemas na FIAP, venho dedicando meu tempo para transformar o aprendizado teórico em projetos práticos. concluí uma formação de 140 horas em Desenvolvimento Full Stack, onde consolidei as bases para criar aplicações ponta a ponta.
+Sou o Cassiano. 
+Atualmente, Estou me graduando em Análise e Desenvolvimento de Sistemas na FIAP e atuo como Estagiário PMO na Tour House Eventos. Mais do que gerenciar prazos, trabalho como uma ponte estratégica entre as necessidades de negócio e a engenharia de software.
 
-Como ainda não atuo profissionalmente na área, foco meu tempo livre estudando e desenvolvendo projetos pessoais de desenvolvimento para colocar a teoria em prática. Meu foco atual de aprendizado são em:
+Acredito que um bom desenvolvedor precisa entender não apenas o "como" codificar, mas o "porquê" de cada solução. Por isso, uno a visão sistêmica do desenvolvimento com processos de gestão, qualidade e agilidade.
+No que foco meu trabalho e entregas hoje:
 
-Desenvolvimento Full Stack: Praticando o ecossistema JavaScript (React.js e Node.js) para construir interfaces dinâmicas e APIs REST.
+Apoio à PMO e Metodologias Ágeis: Auxilio no controle do ciclo de demandas de TI, mapeamento de requisitos com áreas de negócio, acompanhamento de fluxos de cards e rituais de Sprints.
 
-IA & Automação: Tenho grande interesse em explorar a integração de IA Generativa, testando ferramentas como AWS Bedrock, conceitos de RAG e automação de fluxos com N8N.
+Qualidade e Testes (QA): Validação de novas funcionalidades e correções, testando ferramentas sob a ótica do usuário para garantir entregas sem bugs em ambiente de produção.
 
-Qualidade e Infra: Estudando TypeScript, Docker e bancos de dados (SQL e MongoDB) para garantir códigos organizados e eficientes.
+Gestão de Chamados e Integrações: Monitoramento de chamados de integração, identificação de erros de sistema, ajustes técnicos e reprocessamento de demandas.
 
-Sei que ainda tenho muito a aprender, por isso busco minha primeira oportunidade como Estagiário ou Trainee. Minha trajetória anterior em atendimento e controle de acesso me deu habilidades valiosas de organização, resiliência e comunicação. Estou pronto para aplicar conceitos de Metodologias Ágeis (Scrum), aprender com profissionais experientes e retribuir com muita dedicação e vontade de colocar a mão na massa para trabalhar em equipes multidisciplinares e inovadoras.
+Ciclo de Homologação: Acompanhamento e validação das entregas de software ao lado da PMO responsável, garantindo o alinhamento com o escopo planejado.
+
+Minha Bagagem Técnica e Formações:
+
+Graduação: Análise e Desenvolvimento de Sistemas – FIAP (Em andamento)
+
+Full Stack: Desenvolvimento JavaScript, Node.js e React (Dev Club)
+
+Automação & IA: Construção de fluxos inteligentes com n8n (Bootcamp Santander/DIO) e aplicação de IA Generativa com AWS Bedrock (DIO/Nexa).
+
+Estou sempre aberto a conexões, troca de experiências e novos desafios na área de tecnologia!
 
 Formações:
 Programador Full Stack (Dev Club, 2025) Completo.
